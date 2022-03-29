@@ -1,0 +1,23 @@
+# Site settings
+title: NSF CSSI PI Meeting 2022
+email: cxsong@purdue.edu
+description: > # this means to ignore newlines until "baseurl:"
+  NSF CSSI PI Meeting 2022
+#baseurl: "/2022-meeting"
+#url: "https://cssi-pi-community.github.io"
+
+# Build settings
+markdown: kramdown
+
+assets:
+  sources:
+    - assets/fonts
+    - assets/images
+    - assets/js
+    - assets/css
+
+gems:
+  - jekyll-assets
+
+
+theme: jekyll-theme-time-machine
