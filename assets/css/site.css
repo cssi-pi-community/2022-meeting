@@ -729,7 +729,7 @@ table th {
 	white-space: nowrap;
 }
 table .up {
-	background-color: rgba(92, 191, 214, 0.2);
+	background-color: #D9D4E5;
 }
 @media (max-width: 776px) {
 	table thead th {
@@ -857,7 +857,7 @@ span.alert {
 	top: 0;
 	left: 0;
 	right: 0;
-	background-color: #292930;
+	background-color: #201049;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
@@ -1228,7 +1228,7 @@ span.alert {
 	padding-top: 0;
 }
 #home {
-	background: transparent url("../images/halftone.png") center top no-repeat;
+	background: transparent url("../images/block.png") center top no-repeat;
 	background-size: cover;
 }
 #home h2 {
@@ -1249,7 +1249,7 @@ span.alert {
 #home .sub-heading .tagline {
 	margin: 0;
 	font-size: 1.2em;
-	color: #227A91;
+	color: #6667ab;
 }
 #home .sub-heading .sub-heading a {
 	border: none;
@@ -1361,7 +1361,7 @@ ol li {
 ol li:before {
 	content: counter(step-counter);
 	font-size: 80%;
-	background-color: rgba(92, 191, 214, 0.2);
+	background-color: #D9D4E5;
 	font-weight: bold;
 	padding: 3px 8px;
 	padding: 1.3em 1.5em;
